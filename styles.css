@@ -574,10 +574,6 @@ font-size: 4rem;
         display: flex;
         flex-wrap: wrap;
     }
-    /* .host-whole{
-        display: grid;
-        grid-template-columns: ;
-    } */
      .host-whole{
         flex-wrap: wrap;
      }
